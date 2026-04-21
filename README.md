@@ -14,6 +14,12 @@ Get instant wheel fitment reports and safety analysis live:
 
 ---
 
+## 📖 Technical Whitepaper & Safety Standards
+For an in-depth technical analysis of our AI fitment logic, wheel offset safety parameters, and the 2026 PCD database architecture, visit our official documentation on Telegraph:  
+📘 **[AI Wheel Fitment Expert: Precise Bolt Pattern & PCD Database](https://telegra.ph/AI-Wheel-Fitment-Expert-Precise-Bolt-Pattern--PCD-Database-2026-04-09)**
+
+---
+
 ## 🌟 Core Functionalities
 
 ### 🤖 AI Fitment Diagnosis
